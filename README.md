@@ -11,7 +11,7 @@ Welcome to the C Code Question Extractor! This Python script elegantly extracts 
 
 2. **Navigate to the Directory:**
    ```bash
-    cd your_repository
+    cd C-Question-Grabber
 
 3. **Run the Script:**
    ```bash
