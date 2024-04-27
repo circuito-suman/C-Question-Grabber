@@ -15,7 +15,7 @@ Welcome to the C Code Question Extractor! This Python script elegantly extracts 
 
 3. **Run the Script:**
    ```bash
-   python3 extract_questions.py
+   python3 questionGrabber.py
 
    
 ## Features
