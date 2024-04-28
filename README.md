@@ -3,10 +3,10 @@
 Welcome to the C Code Question Extractor! This Python script elegantly extracts questions from comments in C code files, helping you organize your programming assignments or lab exercises effortlessly.
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/circuito-suman/AdafruitMqtttester">
-  <img src="https://img.shields.io/github/issues/circuito-suman/AdafruitMqtttester">
-  <img src="https://img.shields.io/github/forks/circuito-suman/AdafruitMqtttester">
-  <img src="https://img.shields.io/github/stars/circuito-suman/AdafruitMqtttester">
+  <img src="https://img.shields.io/github/license/circuito-suman/C-Question-Grabber">
+  <img src="https://img.shields.io/github/issues/circuito-suman/C-Question-Grabber">
+  <img src="https://img.shields.io/github/forks/circuito-suman/C-Question-Grabber">
+  <img src="https://img.shields.io/github/stars/circuito-suman/C-Question-Grabber">
 </p>
 
 
